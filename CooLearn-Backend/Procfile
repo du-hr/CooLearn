@@ -1,0 +1,1 @@
+web: java -jar CooLearn-Backend/build/libs/CooLearn-Backend-0.0.1-SNAPSHOT.jar
