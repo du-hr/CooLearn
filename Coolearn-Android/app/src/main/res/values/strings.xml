@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Coolearn-Android</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="DOW">
+        <item>Please select a day</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>>
+        <item>Saturday</item>
+        <item>Sunday</item>>
+    </string-array>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="login">Login</string>
+    <string name="coursesSpinner_label">Courses</string>
+    <string name="newPrice_label">New Price</string>
+    <string name="updatePrice_button">Update</string>
+    <string name="error"></string>
+    <string name="course_name">Course: </string>
+    <string name="accept_request">Accept</string>
+    <string name="reject_request">Reject</string>
+    <string name="status_label">Status:</string>
+    <string name="date_label">Date: </string>
+    <string name="start_time_label">Start Time: </string>
+    <string name="end_time_label">End Time: </string>
+    <string name="student_names_label">Student(s): </string>
+    <string name="room_label">Room Number: </string>
+    <string name="title_activity_request_list">RequestListActivity</string>
+    <string name="refresh_list">Refresh List</string>
+    <string name="update_availabilities">Update Availabilities</string>
+    <string name="view_requests">View Requests</string>
+    <string name="set_course_prices">Set Course Prices</string>
+    <string name="welcome_user">Welcome, USER</string>
+    <string name="delete_availabilty">Delete Selected Availabilty</string>
+    <string name="add_availabilty">Add Availabilty</string>
+    <string name="select_availability">Select Availability:</string>
+    <string name="back">BACK</string>
+    <string name="modify_availabilities">Modify Availabilities</string>
+    <string name="edit_selected_availability">EDIT SELECTED AVAILABILITY</string>
+</resources>
